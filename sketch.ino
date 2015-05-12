@@ -14,7 +14,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
 
-  for (int i = 0; i <= 40; i++){ //enciende cada display 40 veces por segundo para eliminar parpadeo
+  for (int i = 0; i < 40; i++){ //enciende cada display 40 veces por segundo para eliminar parpadeo
     
     unidades = contador%10;
     
