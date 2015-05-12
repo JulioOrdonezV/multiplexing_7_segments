@@ -1,4 +1,5 @@
-# multiplexing_7_segments ejemplo de multiplexacion  
+# multiplexing_7_segments  
+ejemplo de multiplexacion  
 Copyright (C) 2015 Julio Ordóñez Viales  
 This program is free software; you can redistribute it and/or  
 modify it under the terms of the GNU General Public License  
